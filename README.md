@@ -1,4 +1,4 @@
-# Bhoomika University Management System
+# University Management System
 
 A Spring Boot CRUD application for the six-table `University_Assignment` MySQL
 schema. It includes a small browser interface and JSON REST APIs for all six
